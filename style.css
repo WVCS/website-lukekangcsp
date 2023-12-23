@@ -1,35 +1,34 @@
-body{
-  background-color: #93D3DD
+body {
+  background-color: #93d3dd;
 }
-h1{
-  font-size:200%;
-  color:#55286F;
-  font-family:"Verdana";
+h1 {
+  font-size: 200%;
+  color: #55286f;
+  font-family: "Verdana";
 }
-P{
-  font-size:87%;
+P {
+  font-size: 87%;
 }
-img{
-  width:500px;
+img {
+  width: 500px;
   border-style: solid;
-  color:#CDC392;
+  color: #cdc392;
 }
-iframe{
-  
+iframe {
 }
-ul{
+ul {
   text-align: center;
   list-style-type: none;
 }
-li{
+li {
   float: left;
 }
-li a{
-  padding:20px;
-  color:white;
+li a {
+  padding: 20px;
+  color: white;
   text-decoration: none;
   border: solid;
 }
-li a:hover{
+li a:hover {
   background-color: Teal;
 }
